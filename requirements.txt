@@ -4,3 +4,9 @@ matplotlib
 seaborn
 jupyterlab
 streamlit
+geopandas 
+shapely 
+fiona 
+rasterio 
+geopy 
+folium
